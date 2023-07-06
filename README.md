@@ -1,28 +1,41 @@
-# To-Do List Web-Page
+# To-Do List Webpage
 
-This is a simple to-do list website that helps you keep track of your tasks and manage your daily activities. The Website allows you to add, edit, and delete tasks, as well as mark them as complete.
+Welcome to the To-Do List Webpage project! This webpage allows you to manage your tasks efficiently. It is designed to be responsive, user-friendly, and provides various features such as adding, editing, and deleting tasks.
 
-## Features
+## Deployment
 
-- Create new tasks
-- Edit existing tasks to modify
-- Delete tasks that are no longer needed
-- Responsive design for optimal viewing on different devices
-- User-friendly interface with intuitive task management
+The To-Do List Webpage is deployed and accessible at [Deployment Link](https://anuragdutt36.github.io/to-do_list/).
 
-## Getting Started
+## Clone Repository
 
-To get started with the to-do list application, follow these steps:
+To clone this repository and run the project locally, follow the steps below:
 
-1. Clone the repository or download the application files.
-2. Open the `index.html` file in a web browser.
-3. Start adding tasks to your to-do list by clicking on the "Add" button.
-4. Edit or delete tasks as needed using the provided options.
+1. Open your terminal or command prompt.
+2. Navigate to the directory where you want to clone the repository.
+3. Run the following command:
+   ```
+   git clone https://github.com/AnuragDutt36/to-do_list.git
+   ```
+4. Once the repository is cloned, navigate into the project directory:
+   ```
+   cd to-do_list
+   ```
+5. Open the `index.html` file in your web browser to view the webpage.
 
 ## Technologies Used
+
+This project is built using the following technologies:
 
 - HTML
 - CSS
 - JavaScript
 
+## Features
 
+The To-Do List Webpage includes the following features:
+
+- **Add Option:** Add new tasks to the list by clicking the "Add" button and entering the task details.
+- **Edit Option:** Edit existing tasks by clicking the "Edit" button next to the task and modifying the task details.
+- **Delete Option:** Remove tasks from the list by clicking the "Delete" button next to the task.
+
+Feel free to explore the webpage and manage your tasks efficiently!
