@@ -1,6 +1,6 @@
 # To-Do List Web-Page
 
-This is a simple to-do list application that helps you keep track of your tasks and manage your daily activities. The application allows you to create, update, and delete tasks, as well as mark them as complete.
+This is a simple to-do list Website that helps you keep track of your tasks and manage your daily activities. The Website allows you to add, edit, and delete tasks, as well as mark them as complete.
 
 ## Features
 
