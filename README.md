@@ -4,7 +4,7 @@ Welcome to the To-Do List Webpage project! This webpage allows you to manage you
 
 ## Preview
 
-![Calculator Preview](/screenshot/to-do_list-preview.png)
+![To-Do List Preview](/screenshot/to-do_list-preview.png)
 
 ## Deployment
 
